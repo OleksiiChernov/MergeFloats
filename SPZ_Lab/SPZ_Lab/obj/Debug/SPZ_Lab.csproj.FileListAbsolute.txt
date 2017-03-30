@@ -1,0 +1,9 @@
+E:\SPZ_lab_1_var_8\SPZ_Lab\SPZ_Lab\bin\Debug\SPZ_Lab.exe.config
+E:\SPZ_lab_1_var_8\SPZ_Lab\SPZ_Lab\bin\Debug\SPZ_Lab.exe
+E:\SPZ_lab_1_var_8\SPZ_Lab\SPZ_Lab\bin\Debug\SPZ_Lab.pdb
+E:\SPZ_lab_1_var_8\SPZ_Lab\SPZ_Lab\obj\Debug\SPZ_Lab.csprojResolveAssemblyReference.cache
+E:\SPZ_lab_1_var_8\SPZ_Lab\SPZ_Lab\obj\Debug\SPZ_Lab.MergeFloats.resources
+E:\SPZ_lab_1_var_8\SPZ_Lab\SPZ_Lab\obj\Debug\SPZ_Lab.Properties.Resources.resources
+E:\SPZ_lab_1_var_8\SPZ_Lab\SPZ_Lab\obj\Debug\SPZ_Lab.csproj.GenerateResource.Cache
+E:\SPZ_lab_1_var_8\SPZ_Lab\SPZ_Lab\obj\Debug\SPZ_Lab.exe
+E:\SPZ_lab_1_var_8\SPZ_Lab\SPZ_Lab\obj\Debug\SPZ_Lab.pdb
